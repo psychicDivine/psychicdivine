@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... Dynamic CRM 
+- 🔭 I’m currently working on ... WorkFlow engines
 - 🌱 I’m currently learning ... Elixir
 - 👯 I’m looking to collaborate on ... Elixir + LLD 
 - 🤔 I’m looking for help with ... Scalable Web Architecture and Distributed Systems  
