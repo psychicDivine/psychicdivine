@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... WorkFlow engines
+- 🔭 I’m currently working on ... genAi based WorkFlow engines 
 - 🌱 I’m currently learning ... Edge computing stack
-- 👯 I’m looking to collaborate on ... JamStack and Edge computing stack
+- 👯 I’m looking to collaborate on ... FFmpeg Video solutions and A2A protocol based solutions 
 - 🤔 I’m looking for help with ... Scalable Web Architecture and Distributed Systems  
-- 💬 Ask me about ... Anything  
-- 📫 How to reach me: ... https://www.linkedin.com/in/himanshu-rajpurohit-911ba1113/
+- 💬 Ask me about ... Anything  related to LLM GenAI vectorDB agentic frameworks..
+- 📫 How to reach me: ... https://www.linkedin.com/in/himanshurajpurohit/
